@@ -1,0 +1,24 @@
+I"ù<ul class="social-links">
+
+<a href="mailto:info@schilderwerkenwdk.be" class="social-links__entry" target="_blank">
+<i class="fa fa-envelope-square"></i>
+</a>
+
+
+<a href="https://www.facebook.com/schilderwerkenwdk" class="social-links__entry" target="_blank">
+<i class="fa fa-facebook"></i>
+</a>
+
+
+<a href="https://www.instagram.com/schilderwerkenwdk" class="social-links__entry" target="_blank">
+<i class="fa fa-instagram"></i>
+</a>
+
+</ul>
+<p><img src="/assets/img/logo.png" id="about-img" /></p>
+
+<div id="describe-text">
+	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
+	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+</div>
+:ET

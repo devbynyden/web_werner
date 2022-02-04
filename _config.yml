@@ -2,8 +2,8 @@
 title: Schilderwerken WdK
 description:
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "schilderwerkenwdk.be" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://schilderwerkenwdk.be" # the base hostname & protocol for your site
 
 author:
   fullname: Schilderwerken WdK
